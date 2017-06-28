@@ -5,7 +5,7 @@
 import time
 import atexit
 
-import pigpio
+from PIGPIO import pigpio
 
 class sensor:
    """
